@@ -37,14 +37,14 @@ body {
     font-size: 1vw;
     text-align: center;
     padding:10px;
-    margin-top:10px;
-    margin-bottom:10px;
+    margin-top:0px;
+    margin-bottom:0px;
     position:relative;
     border-radius:5px;
 }
 
 .boxx{
-    background-color:antiquewhite;
+    background-color:white;
     width: 70vw;
     height: 90vh;
     left: 22vw;
@@ -55,11 +55,16 @@ body {
     border-radius:4px;
     box-shadow: 5px 5px 15px 5px #393D3A;
     text-align:center;
+	font-family: gothic;	
 }
 
 
 
-
+.imerg{
+width: 50vw;
+height:"auto";
+padding-top:5vh;
+}
 
 
 
