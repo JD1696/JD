@@ -1,0 +1,74 @@
+ h1 {
+background-color:red;
+font-size: 49px;
+text-align: center;
+
+
+}
+
+ .fuck {
+font-size:50px;
+text-align:center;
+background-color:salmon;
+
+}
+
+body {
+    background-color:#446677;
+    height:1500px;    
+}
+
+
+.trunk{
+    display:grid;
+    grid-template-rows: auto;
+    background-color:#446677;
+    width: 15vw;
+    height: 90vh;
+    position:fixed;
+    left:1.6vw;
+    top:4vh;
+    
+    
+}
+.branch{
+    background-color:rgb(61, 69, 75);
+    border: 2px solid rgb(128, 128, 125);
+    font-size: 1vw;
+    text-align: center;
+    padding:10px;
+    margin-top:10px;
+    margin-bottom:10px;
+    position:relative;
+    border-radius:5px;
+}
+
+.boxx{
+    background-color:antiquewhite;
+    width: 70vw;
+    height: 90vh;
+    left: 22vw;
+    position:relative;
+    top:4vh;
+    margin-top:15px;
+    font-size: 42px;
+    border-radius:4px;
+    box-shadow: 5px 5px 15px 5px #393D3A;
+    text-align:center;
+}
+
+
+
+
+
+
+
+\\.ass{
+    background-color:#113333;
+    height:100%;
+    width: 100%;
+    position:absolute;
+    padding:0px;
+    margin:0px;
+    border:0px;
+}
